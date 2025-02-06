@@ -1,10 +1,10 @@
 # Face Liveness Detection
 
-📌 Project Overview
+# 📌 Project Overview
 
 This project focuses on Face and Eye Detection for Liveness Detection, aiming to differentiate between real and spoofed faces using computer vision techniques. The system detects facial features and determines liveness based on movement and blink detection.
 
-✨ Features
+# ✨ Features
 
 Real-time face and eye detection using OpenCV.
 
@@ -14,13 +14,13 @@ Integration with deep learning models for enhanced security.
 
 Efficient and lightweight implementation suitable for real-time applications.
 
-🚀 Installation Guide
+# 🚀 Installation Guide
 
 Follow these steps to set up the project on your local machine:
 
 Prerequisites
 
-Ensure you have the following installed:
+# Ensure you have the following installed:
 
 Python (>=3.7)
 
@@ -34,12 +34,12 @@ imutils
 
 Steps
 
-Clone the repository
+# Clone the repository
 
 git clone https://github.com/PRACHIRATHORE07/Face_Liveness_Detection_SIH.git
 cd Face_Liveness_Detection_SIH/Eye-Face_Detection-main
 
-Install dependencies
+# Install dependencies
 
 pip install -r requirements.txt
 
@@ -47,7 +47,7 @@ Run the face detection script
 
 python face_detection.py
 
-🛠️ Usage Instructions
+# 🛠️ Usage Instructions
 
 Run the main script to start real-time face detection.
 
@@ -57,7 +57,7 @@ If a real person is detected, the liveness score will be updated based on eye bl
 
 The results will be displayed in real-time with bounding boxes.
 
-🔧 Technologies Used
+# 🔧 Technologies Used
 
 Python for scripting and processing
 
@@ -67,7 +67,7 @@ Dlib for facial landmark detection
 
 NumPy for numerical computations
 
-🤝 Contributing
+# 🤝 Contributing
 
 Contributions are welcome! To contribute:
 
